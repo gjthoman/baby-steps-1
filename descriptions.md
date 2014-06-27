@@ -1,1 +1,2 @@
 - $1000 in the bank
+- $2000 in the bank
